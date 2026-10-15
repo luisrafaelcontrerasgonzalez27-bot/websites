@@ -153,7 +153,9 @@ Disable "Flyme payment protection" in "Developer options".
 
 Enable "Allow ADB debugging options in 'Charge only' mode" in "Developer options".
 
-#### MIUI (Xiaomi, POCO)
+#### MIUI (Xiaomi, POCO) shizuko
+rooot<img width="1599" height="714" alt="1000000411" src="https://github.com/user-attachments/assets/6ddb5b25-b385-444f-b613-5bc2c6bdec7e" />
+
 
 Do not use the scan feature in MIUI's "Security" app, since it will disable "Developer options".
 
@@ -164,3 +166,4 @@ Don't click the dialog shows after connecting the USB, because it will change US
 ### Start via root: cannot start on boot
 
 Please allow Shizuku to run in the background.
+roo
